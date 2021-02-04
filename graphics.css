@@ -1,3 +1,12 @@
-color c1: {
+body {
+  font: 18px helvetica, sans-serif;
+  color: #dd1111;
+  background-color: #442919;
+}
 
+
+
+co.c1 {
+  font: 36px helvetica, sans-serif, bold;
+  color: #e50505;
 }
